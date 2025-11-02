@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkopencore_guide=globalThis.webpackChunkopencore_guide||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/opencore-guide/blog","blogTitle":"Blog","authorsListPath":"/opencore-guide/blog/authors"}')}}]);
